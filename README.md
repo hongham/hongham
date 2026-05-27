@@ -9,3 +9,8 @@ GitHub는 학습 과정과 실습 결과를 정리하는 공간으로 사용 중
 - 작은 기능 구현
 - 문제 해결 과정 정리
 - 개발 흐름 익히기
+
+## 실습 결과물
+
+- [class_manager](https://github.com/hongham/class_manager): 수업자료와 학습노트 관리 흐름을 정리해 본 데스크톱 프로그램
+- [capstone-fitting-app](https://github.com/hongham/capstone-fitting-app): 3D 아바타와 이미지 생성 아이디어를 기능 형태로 실험해 본 프로젝트
