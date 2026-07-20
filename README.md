@@ -9,5 +9,3 @@ GitHub는 학습 과정과 실습 결과를 정리하는 공간으로 사용 중
 - 작은 기능 구현
 - 문제 해결 과정 정리
 - 개발 흐름 익히기
-
-[class_manager](https://github.com/hongham/class_manager)
